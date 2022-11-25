@@ -1,6 +1,8 @@
 # Real-Time Crop Production Analysis for Yield Improvement 
 It contains EDA on various Crops in different seasons of year across the country.
 ![crop production by state](https://user-images.githubusercontent.com/118895788/203936586-29057a31-487a-46f5-ad67-7794bc5493c0.PNG)
+![Area under Agricultre statewise ](https://user-images.githubusercontent.com/118895788/203942139-219c97eb-5a63-4237-9180-5abc72df2123.PNG)
+
 # Videos shows highest Productive years 
 https://user-images.githubusercontent.com/118895788/203940868-9d2f48fe-09a3-4d4b-9b76-003f3b3eae9a.mp4
 
