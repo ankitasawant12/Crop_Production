@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/118895788/203940868-9d2f48fe-09a3-4d4b
 
 
 # Inspiration
-This project is to help farmers to know more about the crops and best way of farming, to make better decisions, and get an idea how to incraese the yield of particular crop.By monitoring the seasons and whethers of different states of countrywe geta an idea of Indian Agriculutre Sector. 
+This project is to help farmers to know more about the crops and best way of farming, to make better decisions, and get an idea how to increase the yield of particular crop.By monitoring the seasons and whethers of different states of countrywe geta an idea of Indian Agriculutre Sector. 
 
 # Interesting facts from exploratory data analysis
 * Kerala is the highest crops producing state overall . It had produced more 500% crop than its runner up state Andhra Pradesh.
