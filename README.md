@@ -24,6 +24,11 @@ This project is to help farmers to know more about the crops and best way of far
 # Real-Time Analysis in Jupyter notebook 
 ![Area under Agricultute over Years.](https://user-images.githubusercontent.com/118895788/203939493-ea46b594-32b8-4868-84f3-2921e233efbd.PNG)
 
+# How to implement 
+1. Download crop_production csv data file.
+2. Download EDA file.
+3. And run the code.
+4. 
 # Challenges
 * We can't tell perfectly about the whether.
 * Government policies may cause change.
