@@ -16,7 +16,7 @@ This project is to help farmers to know more about the crops and best way of far
 * Uttar Pradesh has largest area under agriculture.
 * Mostly Production of crops is directly proportional to the Area.
 
-# Orignal Development 
+# Original Development 
 * Extract streaming Crop Data, preprocess data in Jupyter Notebook.
 * Perform exploratory data analysis with Pandas & Seaborn to explore the insights.
 * Connect with Plotly for real-time interactive dashboard based on time series.
@@ -28,7 +28,7 @@ This project is to help farmers to know more about the crops and best way of far
 1. Download crop_production csv data file.
 2. Download EDA file.
 3. And run the code.
-4. 
+
 # Challenges
 * We can't tell perfectly about the whether.
 * Government policies may cause change.
